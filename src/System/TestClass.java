@@ -45,8 +45,9 @@ public class TestClass {
         System.out.println("\n");
         for(Competitor l:list.getCompetitorsByLevel("INTERMEDIATE"))
         {
-
-            System.out.print(","+l.getID());
+            l.enterScore(1);
+            l.enterScore(1);
+            System.out.print(","+l.getScores());
         }
     }
 }

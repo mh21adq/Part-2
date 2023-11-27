@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcd91b74-0197-4536-bb0e-cc90900729cc" name="Changes" comment="DayOne Work">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/Competitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/CompetitorList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/IceSkater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/LevelString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/System/TestClass.java" afterDir="false" />
+    <list default="true" id="dcd91b74-0197-4536-bb0e-cc90900729cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/CompetitorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/CompetitorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Numan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700844651264</updated>
-      <workItem from="1700844652991" duration="7732000" />
+      <workItem from="1700844652991" duration="10524000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1700845308101</created>
@@ -73,16 +74,34 @@
       <option name="project" value="LOCAL" />
       <updated>1700845308101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1700852996312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700852996312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first" />
     <MESSAGE value="DayOne Work" />
-    <option name="LAST_COMMIT_MESSAGE" value="DayOne Work" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>

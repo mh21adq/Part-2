@@ -31,7 +31,7 @@ public class CompetitorList {
 
         for(Competitor competitor:this.getCompetitorList())
         {
-            if(competitor.getLevel()==lev)
+            if(competitor.getLevel().equals(lev))
             {
                 CompetitorByLevel.add(competitor);
             }
